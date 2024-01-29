@@ -18,6 +18,6 @@ To use this modified script, the syntax is as follows:
 
 Executing the above command allows for a reverse shell to be established on the specified listener, running under the NT Authority\system context.
 
-![Untitled](README%20md%20048d1fae6a9b4f06affe1e5606761d27/Untitled.png)
+![Untitled](README/Untitled.png)
 
-![Untitled](README%20md%20048d1fae6a9b4f06affe1e5606761d27/Untitled%201.png)
+![Untitled](README/Untitled%201.png)
